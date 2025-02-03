@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GlobalStream<br>🤝 I’m looking for help with Ts/Js<br>🌱 I’m currently learning Htmx<br>💬 Ask me about Rust<br>⚡ Fun fact I am a student of class 8
+🔭 I’m currently working on GlobalStream<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Htmx<br>💬 Ask me about Rust<br>⚡ Fun fact I am a student of class 8
 
 
 # 💻 Tech Stack:
