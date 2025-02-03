@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sync<br>🤝 I’m looking for help with Nextjs<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about Rust<br>⚡ Fun fact I am student of class 8
+🔭 I’m currently working on GlobalStream<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning Htmx<br>💬 Ask me about Rust<br>⚡ Fun fact I am student of class 8
 
 
 # 💻 Tech Stack:
