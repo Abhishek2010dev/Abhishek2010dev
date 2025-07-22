@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kosha<br>🤝 I’m looking for help, to making Kosha better<br>💬 Ask me about Rust/Go<br>⚡ Fun fact I am student of class 9
+🔭 I’m currently working on Nexora<br>🤝 I’m looking for help, to making Nexora better<br>💬 Ask me about Rust/Go<br>⚡ Fun fact I am student of class 9
 
 
 # 💻 Tech Stack:
